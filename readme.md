@@ -1,5 +1,6 @@
 # Live-Demo-Link
 https://rahul9695.github.io/netflix-basic/
+
 Styles Explained
 | Selector        | Property-Value Pairs                                   | Explanation                                              |
 | --------------- | ------------------------------------------------------ | -------------------------------------------------------- |
