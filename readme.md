@@ -1,5 +1,11 @@
 # Live-Demo-Link
 https://rahul9695.github.io/netflix-basic/
+![Screenshot (495)](https://github.com/rahul9695/netflix-basic/assets/120627949/26642c78-bf9c-48a0-ab7e-19ba7a87fd5c)
+![Screenshot (496)](https://github.com/rahul9695/netflix-basic/assets/120627949/ad2608ec-7043-43c6-bc36-6749a9ffa39a)
+![Screenshot (497)](https://github.com/rahul9695/netflix-basic/assets/120627949/41f50ba0-a50b-47b7-8edf-14672e65e5fb)
+
+
+
 
 Styles Explained
 | Selector        | Property-Value Pairs                                   | Explanation                                              |
